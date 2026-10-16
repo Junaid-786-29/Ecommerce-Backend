@@ -235,6 +235,12 @@ Product catalog is read-heavy. Cache-Aside loads data into Redis on first read a
 
 ---
 
+## License
+
+All rights reserved. See [LICENSE](LICENSE).
+
+---
+
 ## Author
 
 **Junaid Khan**
